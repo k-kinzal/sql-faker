@@ -19,3 +19,4 @@ phpunit.xml.dist         export-ignore
 requirements-snapshot.json export-ignore
 requirements.yaml        export-ignore
 tree.yaml                export-ignore
+/container/              export-ignore
